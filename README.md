@@ -2,7 +2,7 @@ Descrição do projeto
 --------------------
 
 >
->O <h2 style="color:#f00;">aplicativo</h2> tem como ideia central ajudar o coordenador do projeto "Aluno Educador" a:
+>O <p style="color:#f00;">aplicativo</p> tem como ideia central ajudar o coordenador do projeto "Aluno Educador" a:
 > - selecionar os alunos dignos de fazerem parte do projeto 
 > - organizar a agenda de quais AE's terão de realizar tarefas naquele dia
 > - organizar as liberações de sala,
