@@ -2,7 +2,7 @@ Descrição do projeto
 --------------------
 
 >
->O **aplicativo** tem como ideia central ajudar o coordenador do projeto "Aluno Educador" a:
+>O *aplicativo* tem como ideia central ajudar o coordenador do projeto "Aluno Educador" a:
 > - selecionar os alunos dignos de fazerem parte do projeto 
 > - organizar a agenda de quais AE's terão de realizar tarefas naquele dia
 > - organizar as liberações de sala,
