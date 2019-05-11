@@ -1,5 +1,5 @@
-<span style="font-style:italic;" >Descrição do projeto</span>
-
+Descrição do projeto
+--------------------
 
 >
 >O **aplicativo** tem como ideia central ajudar o coordenador do projeto "Aluno Educador" a:
