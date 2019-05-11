@@ -1,5 +1,5 @@
-#####Descrição do projeto
-
+Descrição do projeto
+--------------------
 
 >
 >O aplicativo tem como ideia central ajudar o coordenador do projeto "Aluno Educador" a:
