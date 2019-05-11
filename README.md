@@ -1,4 +1,4 @@
-<span style="italic" >Descrição do projeto</span>
+<span style="font-style:italic;" >Descrição do projeto</span>
 --------------------
 
 >
