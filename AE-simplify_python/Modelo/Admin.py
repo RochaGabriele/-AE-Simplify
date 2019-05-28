@@ -3,7 +3,7 @@ class Admin:
     #atributos privados por serem caracteristicas proprias
     __nome=""
     __cargo=""  
-    discente = Aluno() #composi��o necessaria para acessar/modificar os atributos da classe Aluno
+    discente = Aluno() #composicao necessaria para acessar/modificar os atributos da classe Aluno
 #encapsulamentos
 #getters/acesso
     def getNome(self):
