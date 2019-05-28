@@ -1,7 +1,7 @@
 class Agenda:
     __dia=0
     __semana=0
-    __mes=""
+    __mes= 0
     __ano=0
 
 #getters/acesso
