@@ -15,8 +15,6 @@ class Agenda:
 
     def setDia(self,dia):
         self.__dia=dia
-    def setSemana(self,semana):
-        self.__semana=semana
     def setMes(self,mes):
         self.__mes=mes
     def setAno(self,ano):
