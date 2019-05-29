@@ -6,8 +6,6 @@ class Agenda:
 #getters/acesso
     def getDia(self):
         return self.__dia
-    def getSemana(self):
-        return self.__semana
     def getMes(self):
         return self.__mes
     def getAno(self):
