@@ -9,7 +9,7 @@
 QT_CHARTS_USE_NAMESPACE
 int main(int argc, char *argv[])
 {
-    int prifev = 10.0;
+    int prifev = 0.0;
     int primar = 0.0;
     int priabr = 0.0;
     int primai = 0.0;
