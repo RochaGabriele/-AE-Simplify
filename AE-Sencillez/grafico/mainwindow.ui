@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>MainWindow</class>
+ <widget class="QMainWindow" name="MainWindow">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>463</width>
+    <height>426</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>MainWindow</string>
+  </property>
+  <widget class="QWidget" name="centralWidget">
+   <widget class="QLabel" name="label">
+    <property name="geometry">
+     <rect>
+      <x>10</x>
+      <y>-10</y>
+      <width>431</width>
+      <height>351</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Avalie da seguinte forma:
+● Atraso e Ocorrências:
+	0 - Muitos(as) atrasos/ocorrências;
+	10 - Nenhum atraso/ocorrência.
+	
+● Assiduidade, Postura e Desemprenho:
+	0 - Pessimo comportamento;
+	10 - Comportamento excelente.
+
+Após avaliar, clique no botão &quot;Adicionar outro&quot; caso queira avaliar 
+mais de um mês e/ou mais de uma série, ou em &quot;Criar Grafico&quot; para 
+		  gerar de acordo com a média de avaliação.
+	
+O grafico será formado apartir da média das pontuações definidas  
+				por você na próxima janela.
+
+  (atraso+assiduidade+ocorrencias+postura+desempenho)
+----------------------------------------------------------  =   Média
+                                            5</string>
+    </property>
+   </widget>
+   <widget class="QPushButton" name="pushButton">
+    <property name="geometry">
+     <rect>
+      <x>180</x>
+      <y>320</y>
+      <width>90</width>
+      <height>32</height>
+     </rect>
+    </property>
+    <property name="text">
+     <string>Começar</string>
+    </property>
+   </widget>
+  </widget>
+  <widget class="QMenuBar" name="menuBar">
+   <property name="geometry">
+    <rect>
+     <x>0</x>
+     <y>0</y>
+     <width>463</width>
+     <height>28</height>
+    </rect>
+   </property>
+  </widget>
+  <widget class="QToolBar" name="mainToolBar">
+   <attribute name="toolBarArea">
+    <enum>TopToolBarArea</enum>
+   </attribute>
+   <attribute name="toolBarBreak">
+    <bool>false</bool>
+   </attribute>
+  </widget>
+  <widget class="QStatusBar" name="statusBar"/>
+ </widget>
+ <layoutdefault spacing="6" margin="11"/>
+ <resources/>
+ <connections/>
+</ui>
