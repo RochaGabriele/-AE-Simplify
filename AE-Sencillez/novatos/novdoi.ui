@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ui version="4.0">
+ <class>novDoi</class>
+ <widget class="QDialog" name="novDoi">
+  <property name="geometry">
+   <rect>
+    <x>0</x>
+    <y>0</y>
+    <width>424</width>
+    <height>241</height>
+   </rect>
+  </property>
+  <property name="windowTitle">
+   <string>Dialog</string>
+  </property>
+  <widget class="QLabel" name="label">
+   <property name="geometry">
+    <rect>
+     <x>20</x>
+     <y>-10</y>
+     <width>391</width>
+     <height>221</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>A pontuação será calculada da seguinte forma:
+	atraso+assiduidade+ocorrencias+postura+desempenho
+
+Caso a pontuação do aluno seja maior ou igual a 35,
+	o Aluno estará apto para entrar no projeto.
+
+Caso pontuação &gt; 35,
+	o Aluno não tem qualificações para o projeto.</string>
+   </property>
+  </widget>
+  <widget class="QPushButton" name="pushButton">
+   <property name="geometry">
+    <rect>
+     <x>170</x>
+     <y>190</y>
+     <width>90</width>
+     <height>32</height>
+    </rect>
+   </property>
+   <property name="text">
+    <string>Começar</string>
+   </property>
+  </widget>
+ </widget>
+ <resources/>
+ <connections/>
+</ui>
